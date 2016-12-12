@@ -1,0 +1,49 @@
+.hot-main{
+	padding-top: 10px;
+}
+.hot-leftmain{
+	padding: 10px 10px 10px 0; 
+	width: 365px;
+	float: left;
+}
+.hot-leftmain > div{
+	width: 172px;
+	float: left;
+	margin: 10px 10px 10px 0;
+}
+.hot-leftmain > div > div{
+	width: 172px;
+	height: 172px;
+}
+.hot-leftmain > div > div img{
+	display: block;
+	margin: auto;
+}
+.hot-rightmain{
+	width: 290px;
+	float: left;
+	margin-top: 20px;
+}
+.hot-rightmain > div{
+	margin-bottom: 15px;
+}
+.hot-rightmain span{
+	display: block;
+	padding: 1px 0;
+}
+
+
+.hot-ad{
+	float: right;
+	width: 266px;
+}
+.hot-ad > img{
+	margin-bottom: 10px;
+}
+.hot-ad-lik{
+	margin-top: 15px;
+}
+.hot-ad-lik span{
+	display: block;
+	padding: 1px 0;
+}

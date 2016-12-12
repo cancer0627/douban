@@ -1,0 +1,128 @@
+.left-sign{
+	float: left;
+	padding: 35px 0 0 280px;
+}
+.right-sign{
+	float: right;
+	width: 270px;
+	height: 130px;
+}
+.left-sign > a{
+	display: inline-block;
+	float: left;
+	margin: 1px;
+}
+.left-sign > div{
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	float: left;
+	margin-left: 6px;
+}
+.ma{
+	position: absolute;
+	float: left;
+	height: 28px;
+	width: 28px;
+	border-radius: 3px;
+	border: 1px solid #00B51D;
+	background-image: url(ima/ma.jpg);
+}
+.ma + div{
+	position: absolute;
+	display: none;
+	width: 162px;
+	border: 1px solid black;
+	border-radius: 3px;
+	padding: 19px 19px 0 19px;
+	background-color: white;
+}
+.left-sign a button{
+	background-color: #00B51D;
+	color: white;
+	border: 0;
+	border-radius: 3px;
+	padding: 6px 16px;
+}
+.ma + div span{
+	display: block;
+	margin: 12px auto;
+	font-size: 13px;
+}
+.left-sign div:hover .ma + div{
+	display: inline-block;
+}
+
+.right-sign{
+	margin-top: 25px;
+}
+.right-sign .t1,.right-sign .t2{
+	margin-bottom: 5px;
+	width: 270px;
+	height: 30px;
+	border: 1px solid #ccc;
+	outline: none;
+	background-color: white;
+}
+.t1 input{
+	outline-width: 0;
+	display: inline-block;
+	margin-left: 10px;
+	border: 0;
+	padding: 0;
+	width: 260px;
+	height: 30px;
+}
+.t2 input{
+	outline-width: 0;
+	display: inline-block;
+	margin-left: 10px;
+	border: 0;
+	padding: 0;
+	width: 220px;
+	height: 30px;
+}
+.t2 a{
+	float: right;
+	margin-right: 9px;
+	display: inline-block;
+	line-height: 30px;
+	text-decoration: none;
+}
+.t3,.t4{
+	width: 272px;
+}
+.t3 input,.t3 button{
+	display: inline-block;
+	padding: 5px 39px;
+	border: 1px solid #30A080;
+	border-radius: 3px;
+	margin-bottom: 10px;
+}
+.t3 button{
+	background: none;
+	color: #30A080;
+}
+.t3 input{
+	float: left;
+	background-color: #30A080;
+	color: white;
+}
+.t4{
+	float: left;
+}
+.t3 a{
+	padding: 0;
+}
+.t3 button{
+	float: right;
+}
+.t4 input{
+	padding: 0;
+	margin: 0;
+}
+.t4 img{
+	display: inline-block;
+	float: right;
+	margin-left: 5px;
+}

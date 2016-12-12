@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+}
+
+#top {
+    height: 90px;
+    width: 950px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+#s_sign {
+    height: 180px;
+    background-image: url(ima/sign-back.jpg);
+    background-size: 100%;
+}
+
+#sign {
+    width: 950px;
+    height: 180px;
+    margin: 0 auto;
+    background-image: url(ima/sign-back2.png);
+}
+
+#hot {
+    height: 590px;
+    width: 950px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding-top: 30px;
+}
+
+#main {
+    height: 2000px;
+}
+
+#m_main1 {
+    height: 630px;
+    background-color: #f7f7f7;
+}
+
+#main1 {
+    padding-top: 30px;
+    height: 600px;
+    width: 950px;
+    margin: 0 auto;
+}
+
+#main2 {
+    padding-top: 30px;
+    height: 600px;
+    width: 950px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+/**/
+.text-size {
+    font-size: 13px;
+}
+
+.text-size2 {
+    font-size: 15px;
+}
+
+.text-color {
+    color: #aaa;
+}
+
+.text-color2 {
+    color: #555;
+}
+
+.text-color3 {
+    color: #038618;
+}
+
+.text-color4 {
+    color: #3C83B0;
+}
+
+.text-color5 {
+    color: #007982;
+}
+
+.text-color6 {
+    color: #000;
+}
+
+.text-lik {
+    text-decoration: none;
+}
+
+.text-lik:hover {
+    background-color: #3C83B0;
+    color: white;
+}

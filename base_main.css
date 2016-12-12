@@ -1,0 +1,90 @@
+#main .left-main{
+	width: 120px;
+	height: 600px;
+	float: left;
+}
+#main .main-body{
+	width: 560px;
+	height: 600px;
+	float: left;
+}
+#main .right-main{
+	width: 270px;
+	height: 600px;
+	float: left;
+}
+#main h2{
+	margin: 0;
+}
+#main1 .body-lik{
+	width: 280px;
+	float: left;
+	margin: 15px 0 25px;
+}
+#main1 .body-lik > a{
+	display: inline-block;
+	float: left;
+	padding: 0;
+}
+#main1 .body-lik div a{
+	display: inline-block;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+#main1 .body-lik div span{
+	display: block;
+	margin-left: 60px;
+	margin-bottom: 10px;
+}
+#main .right-main > div{
+	margin-bottom: 15px;
+}
+#main .right-main div div a{
+	padding-right: 4px;
+}
+
+
+
+#main2 .main-body > div{
+	float: left;
+}
+#main2 .left-main img{
+	margin-top: 10px;
+}
+#main2 .body-lik{
+	width: 102px;
+	margin: 15px;
+	float: left;
+}
+#main2 .body-lik > a{
+	display: block;
+	width: 102px;
+	height: 155px;
+}
+#main2 .body-lik > div{
+	text-align: center;
+}
+#main2 .body-lik > div > a{
+	padding: 0;
+}
+#main2 .body-lik > div > span{
+	padding: 5px 0 2px;
+	display: block;
+}
+#main2 .body-lik > div > span + a{
+	padding: 0;
+}
+#main2 .body-lik > div > span + a button{
+	padding: 5px 10px;
+	border-radius: 3px;
+	border: 0;
+	background-color: #999A95;
+	color: white;
+}
+#main2 .body-lik > div > span + a button:hover{
+	background-color: #777;
+}
+#main2 .right-main hr{
+	border: 0;
+	border-top: 1px solid #eee;
+}
