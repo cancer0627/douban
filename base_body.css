@@ -12,7 +12,7 @@ body {
 #s_sign {
     height: 180px;
     background-image: url(ima/sign-back.jpg);
-    background-size: 100%;
+    background-size: 100% 180px;
 }
 
 #sign {
